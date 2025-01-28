@@ -1,0 +1,11 @@
+Wanted to share some of my experiments of using AI to design scarfs. I like the @hermes style scarfs and would like to check whether AI could do that too. So I did three experiments:
+1. Directly mimic the Hermes style, as the first two images show.
+2. Introduce my own idea and style to change the design, shown in Image 3-5.
+3. Introduce a new concept that SD didn’t know before to see how it blends in. Shown in Image 6-8. Image 9 is an example of the training data.
+
+Some thoughts:
+1. AIGC has a much higher ceiling than I thought. But it’s not like you tell it to design something and it just works. Instead, we still need to give specific instructions and tune the parameters. One example is, when the background of the generated image is too simple, and you want to make it more complicated. “A complicated background” will not work. But “a Rococo style background” works well. So it still requires domain knowledge of art and design.
+2. The capability of AI fuses different styles is astonishing. Especially for Image 6 above. The training data looks like Image 9, which has no images like a Japanese Geisha. But the AI learns to blend it with Geisha, which is very surprising. The pose in Image 7 and 8 is also very coherent with the overall shape of the design.
+3. I would call this capability of mixing creativity, For Image 3 and 4, it’s impressive even for human designers.
+
+So overall, I think at least the current AI design could give a lot of efficiency improvement and inspirations to the human designers. It will probably not replace human designers because it still needs domain knowledge on art and design. But just like agriculture machines, reducing the workforce by 90% for example while still maintaining the same throughput is not far away from replacing.

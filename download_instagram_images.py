@@ -12,7 +12,7 @@ def download_instagram_images(username):
         # Download all posts (including images)
         for post in profile.get_posts():
             if not post.is_video:  # Skip videos, only download images
-                loader.download_post(post, target=f"{username}_images")
+                loader.download_post(post, target=f"download_instagram_images")
                 print(f"Downloaded: {post.url}")
 
         print(f"All images from @{username} have been downloaded.")

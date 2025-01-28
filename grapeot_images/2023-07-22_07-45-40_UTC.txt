@@ -1,6 +1,0 @@
-Finally put the Canon EOS VR lens on the Red V-Raptor.
-
-Canon: EOS VR Utility can only be used with R5/R5c, does not support color depth above 10bit, cannot handle Raw, cannot process videos longer than 5 minutes, and needs to wait 1 minute to process an image. 
-My code: can use third-party models such as Red V-Raptor, can process R3DRaw, can use REDWideGamut/Log3G10 in Da Vinci for color grading, can process videos of any length, and 100x speed up with Ray. 
-
-Picture 1 is the hardware, picture 2 is the frame right from the raw, and picture 3 is the picture after color correction + mapping, which can be directly viewed in Oculus.

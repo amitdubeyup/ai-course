@@ -1,4 +1,4 @@
-# ai-course
+# Ai Automation Course
 
 This repository contains two main scripts:
 
